@@ -1,0 +1,113 @@
+[about_me]
+other = "Hakkımda"
+
+[alipay]
+other = "Alipay"
+
+[archives]
+other = "Arşiv"
+
+[categories]
+other = "Katagoriler"
+
+[color_blue]
+other = "Mavi"
+
+[color_blue_gray]
+other = "Mavi Gri"
+
+[color_brown]
+other = "Kahverengi"
+
+[color_cyan]
+other = "Cyan"
+
+[color_green]
+other = "Yeşil"
+
+[color_indigo]
+other = "Indigo"
+
+[color_orange]
+other = "Turuncu"
+
+[color_pink]
+other = "Pembe"
+
+[color_purple]
+other = "Mor"
+
+[color_red]
+other = "Kırmızı"
+
+[color_teal]
+other = "Turkuaz"
+
+[color_yellow]
+other = "Sarı"
+
+[copyright]
+other = "Copyright"
+
+[featured_posts]
+other = "Öne çıkan gönderiler"
+
+[font_size]
+other = "Yazı Boyutu"
+
+[home]
+other = "Ana Sayfa"
+
+[language]
+other = "Dil"
+
+[load_more]
+other = "Daha Fazla"
+
+[mode]
+other = "Mode"
+
+[pagination_title]
+other = "Sayfa {{ .PageNumber }}"
+
+[palette]
+other = "Palette"
+
+[reading_time]
+other = "{{ .ReadingTime }} dk okuma süresi"
+
+[recent_posts]
+other = "Son Gönderiler"
+
+[related_posts]
+other = "Alakalı Gönderiler"
+
+[reward]
+other = "Ödül"
+
+[search]
+other = "Ara"
+
+[search_missing_keywords]
+other = "Aranacak kelimeyi girin"
+
+[search_no_results]
+other = "Sonuç bulunamadı"
+
+[search_stat]
+other = "{{ .Total }} Sonuç bulundu"
+
+[series]
+other = "Seriler"
+
+[settings]
+other = "Ayaralr"
+
+[table_of_contents]
+other = "Özet"
+
+[tags]
+other = "Tags"
+
+[wechat]
+other = "WeChat"

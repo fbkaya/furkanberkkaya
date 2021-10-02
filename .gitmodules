@@ -1,0 +1,12 @@
+[submodule "themes/meme"]
+	path = themes/meme
+	url = https://github.com/reuixiy/hugo-theme-meme
+[submodule "hugo-theme-bootstrap"]
+	path = hugo-theme-bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap
+[submodule "Hugo-Octopress"]
+	path = Hugo-Octopress
+	url = https://github.com/parsiya/Hugo-Octopress
+[submodule "themes/hugo-theme-bootstrap"]
+	path = themes/hugo-theme-bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap
